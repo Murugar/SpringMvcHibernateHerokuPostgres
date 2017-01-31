@@ -1,4 +1,4 @@
-package com.iqmsoft.heroku;
+package com.iqmsoft.heroku.controller;
 
 import java.io.Serializable;
 import java.util.Map;

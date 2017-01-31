@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.iqmsoft.heroku.BaseController;
 import com.iqmsoft.heroku.dao.PersonDao;
 import com.iqmsoft.heroku.model.Person;
 
